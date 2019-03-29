@@ -1,0 +1,14 @@
+C:\Users\emran\source\repos\Bank Test\Bank Test\obj\Debug\Bank Test.csprojAssemblyReference.cache
+C:\Users\emran\source\repos\Bank Test\Bank Test\obj\Debug\Bank Test.csproj.CoreCompileInputs.cache
+C:\Users\emran\source\repos\Bank Test\Bank Test\bin\Debug\Bank Test.exe.config
+C:\Users\emran\source\repos\Bank Test\Bank Test\bin\Debug\Bank Test.exe
+C:\Users\emran\source\repos\Bank Test\Bank Test\bin\Debug\Bank Test.pdb
+C:\Users\emran\source\repos\Bank Test\Bank Test\obj\Debug\Bank Test.exe
+C:\Users\emran\source\repos\Bank Test\Bank Test\obj\Debug\Bank Test.pdb
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\bin\Debug\Bank Test.exe.config
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\bin\Debug\Bank Test.exe
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\bin\Debug\Bank Test.pdb
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\obj\Debug\Bank Test.csprojAssemblyReference.cache
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\obj\Debug\Bank Test.csproj.CoreCompileInputs.cache
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\obj\Debug\Bank Test.exe
+C:\Users\emran\Desktop\.NET CMS\C Sharp\Assignments\Bank Test\Bank Test\obj\Debug\Bank Test.pdb
